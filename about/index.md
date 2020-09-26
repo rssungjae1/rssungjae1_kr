@@ -9,7 +9,7 @@ comments: false
 ---
 
 <figure class="middle">
-	<img src="..\assets\img\programmer.png">
+	<img src="..\assets\img\SongSungjae.png">
 </figure>
 
 ---
