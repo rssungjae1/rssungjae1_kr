@@ -1,37 +1,55 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About this programmer
+tags: [about]
+date: 2020-09-26
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+---
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<figure class="middle">
+	<img src="..\assets\img\programmer.png">
+</figure>
 
-## Preview
+---
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## About
+非専攻者だが、プログラミング就業教育を受けながら働くようになったプログラマーです。
+自分でも足りないところが多いと思っていつも頑張るプログラマーになろうと思っています。
+ビッグデータの処理や活用などに関心があります。 実際にAWSでビッグデータ活用業務を担当したことがありますが、非常に興味深く、楽しくプロジェクトを進めました。
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+日本IT実務経験が2年あり、主にアプリケーション開発業務を担当しました。
+現在は韓国に帰って就職準備中であり、様々な資格を取りながらプログラミングを疎かにした傾向があるので
+このポートフォリオを作成しながら、心を引き締めるつもりです。
 
-## Getting Started
+<br>
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+---
+
+## Skills
+
+ | 스킬 | 내용 | 레벨 |
+ |------|:------:|------:|
+ | `JAVA` |  | `★★★★☆` |
+ | `Java Script` | node.js | `★★★★☆` |
+ | `VB.NET` |  | `★★★★☆` |
+ | `HTML` |  | `★★★☆☆` |
+ | `CSS` |  | `★★☆☆☆` |
+
+
+<br>
+
+---
+
+## Certificate
+
+| 자격증 | 내용 | 취득일 |
+|------|:------:|------:|
+| `정보처리기사` |  | `2020.08.28` |
+| `OCJP` | Oracle Certified Professional, Java SE 6 Programmer | `2018.02.01` |
+| `JLPT 2급` | JPT환산 550이상 | `2018.01.21` |
+| `한국사능력검정 2급` |  | `2020.07.10` |
+| `굴삭기 운전 기능사` |  | `2015.06.12` |
+
+
