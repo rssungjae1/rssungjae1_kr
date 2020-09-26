@@ -31,13 +31,15 @@ comments: false
 
  | 스킬 | 내용 | 레벨 |
  |------|:------:|------:|
- | `JAVA` |  | `★★★★☆` |
- | `Java Script` | node.js | `★★★★☆` |
- | `VB.NET` |  | `★★★★☆` |
- | `HTML` |  | `★★★☆☆` |
- | `CSS` |  | `★★☆☆☆` |
-
-
+ | `JAVA` | 簡単なプログラミングが可能 | `★★★★☆` |
+ | `Java Script(node.js)` | プログラミングが可能 | `★★★★☆` |
+ | `VB.NET` | プログラミングが可能 | `★★★★☆` |
+ |----
+ | `HTML` | プログラミングが可能 | `★★★☆☆` |
+ | `CSS` | プログラミングが可能 | `★★★☆☆` |
+ |----
+ | `Oracle11g` | 維持補修可能 | `★★★★☆` |
+ | `DynamoDB` | 維持補修可能 | `★★★★☆` |
 <br>
 
 ---
@@ -46,10 +48,14 @@ comments: false
 
 | 자격증 | 내용 | 취득일 |
 |------|:------:|------:|
-| `정보처리기사` |  | `2020.08.28` |
-| `OCJP` | Oracle Certified Professional, Java SE 6 Programmer | `2018.02.01` |
-| `JLPT 2급` | JPT환산 550이상 | `2018.01.21` |
-| `한국사능력검정 2급` |  | `2020.07.10` |
-| `굴삭기 운전 기능사` |  | `2015.06.12` |
+
+| `정보처리기사` | 情報処理技師（Applied Information Technology Engineer） | `2020.08` |
+| `OCJP` | Oracle Certified Professional, Java SE 6 Programmer | `2018.02` |
+|----
+| `TOEIC` | 640 | `2020.09` |
+| `JLPT 2급` | Japanese Language Proficiency Test | `2018.01` |
+|----
+| `한국사능력검정 2급` | 韓国史能力検定 | `2020.07` |
+| `굴삭기 운전 기능사` | パワーショベル運転技能士 | `2015.06` |
 
 
