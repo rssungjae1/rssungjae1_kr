@@ -23,8 +23,10 @@ import re
   - match() # 처음부터 일치하는지
   - search() # 일치하는 게 있는지
   - findall() # 일치하는 것 모두 리스트로
+
 ---
-### group() 
+
+## group() 
   - 매치객체.group(그룹숫자)
 ```python
 m = re.match('([0-9]+) ([0-9]+)', '10 295')
@@ -37,7 +39,9 @@ m.group()     # 매칭된 문자열을 한꺼번에 반환
 m.group(0)    # 매칭된 문자열을 한꺼번에 반환
 # '10 295'
 ```
+
 ---
+
 ## <Requests>
 웹 페이지 읽어오기
 빠르다, 동적 웹 페이지 불가
@@ -47,6 +51,7 @@ Requests를 통해 받아온 html이 정상인지 확인
 ```python
 res.raise_for_status()
 ```
+
 ---
 
 ## <Selenium>
@@ -97,11 +102,13 @@ while True:
     
     prev_height = curr_height
 ```
+
 ---
 
 ## <Headless chrome>
 브라우저를 띄우지 않고 동작
 때로는 User-Agent 정의 필요
+
 ---
 
 ## <BeautifulSoup>
@@ -115,6 +122,7 @@ find_previous_sibling(s) # 이전 형제 찾기
 soup["href"] # 속성
 soup.get_text() # 텍스트
 ```
+
 ---
 
 ## <이미지 다운로드>
@@ -122,6 +130,7 @@ soup.get_text() # 텍스트
 with open("파일명", "wb") as f:
     f.write(res.content)
 ```
+
 ---
 
 ## <csv 다운로드>
@@ -129,4 +138,5 @@ with open("파일명", "wb") as f:
 import csv
 f = open(filename, "w", encoding("utf-8-sig", newline=""))
 ```
+
 ---
