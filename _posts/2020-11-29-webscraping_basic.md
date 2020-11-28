@@ -12,7 +12,7 @@ comments: true
 ---
 [git 바로가기](https://github.com/rssungjae1/webscraping_basic/tree/master)
 
-## <정규식>
+## 정규식
 python 기본 라이브러리
 import re
   - .(ca.e) # 하나의 문자
@@ -39,7 +39,7 @@ m.group(0)    # 매칭된 문자열을 한꺼번에 반환
 # '10 295'
 ```
 
-## <Requests>
+## Requests
 웹 페이지 읽어오기
 빠르다, 동적 웹 페이지 불가
 주어진 url을 통해 받아온 html에 원하는 정보가 있을때
@@ -49,7 +49,7 @@ Requests를 통해 받아온 html이 정상인지 확인
 res.raise_for_status()
 ```
 
-## <Selenium>
+## Selenium
 웹 페이지 자동화
 느리다, 동적 웹 페이지 가능
 로그인, 어떤 결과에 대한 필터링 등 어떤 동작을 해야하는 경우
@@ -98,11 +98,11 @@ while True:
     prev_height = curr_height
 ```
 
-## <Headless chrome>
+## Headless chrome
 브라우저를 띄우지 않고 동작
 때로는 User-Agent 정의 필요
 
-## <BeautifulSoup>
+## BeautifulSoup
 추출
 ```python
 find # 조건에 맞는 첫 번째 element
@@ -114,13 +114,13 @@ soup["href"] # 속성
 soup.get_text() # 텍스트
 ```
 
-## <이미지 다운로드>
+## 이미지 다운로드
 ```python
 with open("파일명", "wb") as f:
     f.write(res.content)
 ```
 
-## <csv 다운로드>
+## csv 다운로드
 ```python
 import csv
 f = open(filename, "w", encoding("utf-8-sig", newline=""))
