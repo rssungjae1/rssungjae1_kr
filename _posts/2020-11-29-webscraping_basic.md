@@ -10,7 +10,7 @@ tag:
 - Selenium
 comments: true
 ---
-[git 바로가기](https://github.com/rssungjae1/webscraping_basic/tree/master)
+[git 바로가기](https://github.com/rssungjae1/python_basic_webscraping/tree/master)
 
 ## 정규식
 python 기본 라이브러리
