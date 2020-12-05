@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "webscraping_basic"
+title:  "python_basic_webscraping"
 date:   2020-11-29
 excerpt: ""
 tag:
