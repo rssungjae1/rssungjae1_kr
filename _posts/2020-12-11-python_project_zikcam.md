@@ -1,7 +1,7 @@
 ---
 layout : post
 title : " ZikCAM "
-date : 2020 - 12 - 11
+date : 2020-12-11
 excerpt : ""
 project : true
 tag :
