@@ -1,14 +1,14 @@
 # Site
-title:              Sungjae Song（ソンソンジェ）
+title:              송성재
 bio:                'SE Programmer'
-description:        "the portfolio about SONG"
+description:        "송성재의 포트폴리오 입니다."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://rssungjae1.github.io/
+url:                https://rssungjae1.github.io/rssungjae1_kr/
 
 # Jekyll
 permalink:          /:title/
@@ -37,9 +37,9 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
+email: rssungjae1@gmail.com
+# twitter:            username
+# facebook:           username
 github-url:         rssungjae1
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -50,7 +50,7 @@ instagram:          songsj_nd99
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
