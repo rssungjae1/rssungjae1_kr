@@ -15,7 +15,7 @@ comments : true
 ---
 [git 바로가기](https://github.com/rssungjae1/java_lecture_evaluation)
 
-## 도구 이미지
+## 프로젝트 구성도
 <figure class="middle">
 	<img src="..\assets\img\2020-12-22-java_lecture_evaluation.png">
 </figure>
