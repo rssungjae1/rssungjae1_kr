@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "python_basic_skill"
+title:  "파이썬_기본스킬"
 date:   2020-11-29
-excerpt: ""
+excerpt: "파이썬 기본스킬 공부"
 tag:
 - python
 - basic

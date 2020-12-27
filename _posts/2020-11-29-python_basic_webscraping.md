@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "python_basic_webscraping"
+title:  "파이썬_웹스크래핑"
 date:   2020-11-29
-excerpt: ""
+excerpt: "파이썬 웹스크래핑 공부, selenium이용"
 tag:
 - python
 - Requests

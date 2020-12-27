@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "python_basic_gui"
+title:  "파이썬_GUI"
 date:   2020-12-05
-excerpt: ""
+excerpt: "파이썬 GUI tkinter공부"
 tag:
 - python
 - tkinter

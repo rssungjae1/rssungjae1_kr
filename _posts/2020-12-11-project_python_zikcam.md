@@ -1,8 +1,8 @@
 ---
 layout : post
-title : " ZikCAM "
+title : "ZikCAM(직캠제작기능)"
 date : 2020-12-11
-excerpt : ""
+excerpt : "Python의 tkinter와 opencv를 이용한 직캠 제작 툴"
 project : true
 tag :
 - project
@@ -11,7 +11,7 @@ tag :
 - opencv
 comments : true
 ---
-[ git 바로가기 ]( https://github.com/rssungjae1/python_project_zikcam)
+[git 바로가기](https://github.com/rssungjae1/python_project_zikcam)
 
 ### 개발 기간
 * 2020.12 ~ 2020.12 (약 이틀)
