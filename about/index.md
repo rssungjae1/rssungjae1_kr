@@ -29,18 +29,6 @@ comments: false
 
 ---
 
-## 경력
-* 증권계의 프로젝트로 VB.NET 프론트엔드 개발의 경험이 있습니다.
-* 설계서를 작성할 수 있습니다.　
-* 제조계에서 사내 SE로 고객요구사항 확인과 사양서 작성 및 회의진행 등 전체적인 업무가 가능합니다.
-* AWS 환경에서의 프로젝트 진행으로 클라우드 시스템의 전체적인 흐름을 이해하고 있습니다.
-* Slacks, Github, SonarQube 등 프로젝트 진행에 도움이 되는 업무에 적응하고 있습니다.
-* 자동 테스트를 활용하여 정확하고 효율적으로 테스트할 수 있습니다.
-
-<br>
-
----
-
 ## Skills
 
 | 스킬 | 내용 | 레벨 |
@@ -72,3 +60,67 @@ comments: false
 | `굴삭기 운전 기능사` |  | `2015.06` |
 {: rules="groups"}
 
+---
+
+## 주요 프로젝트 내용
+* 증권계의 프로젝트로 VB.NET 프론트엔드 개발의 경험이 있습니다.
+* 설계서를 작성할 수 있습니다.　
+* 제조계에서 사내 SE로 고객요구사항 확인과 사양서 작성 및 회의진행 등 전체적인 업무가 가능합니다.
+* AWS 환경에서의 프로젝트 진행으로 클라우드 시스템의 전체적인 흐름을 이해하고 있습니다.
+* Slacks, Github, SonarQube 등 프로젝트 진행에 도움이 되는 업무에 적응하고 있습니다.
+* 자동 테스트를 활용하여 정확하고 효율적으로 테스트할 수 있습니다.
+
+### ZikCAM(직캠제작기능)
+ - 개발기간 : 2020.12 ~ 2020.12
+ - Python의 tkinter와 opencv를 이용한 직캠 제작 툴
+ - https://rssungjae1.github.io/rssungjae1_kr//project_python_zikcam/
+
+### AWS기반 빅데이터 처리 프로젝트
+ - 개발기간 : 2019.10 ~ 2020.02 
+ - AWS기반 lambda등 빅데이터 에러체크, 카운팅 보고시스템 개발
+ - Node.js, Python, AWS Lambda, S3, Dynamodb, SES, StepFunctions
+ - https://rssungjae1.github.io/rssungjae1_kr//project_201910_202002/
+
+### 서버 업그레이드 및 데이터 관리시스템 개발
+ - 개발기간 : 2018.10 ~ 2019.09
+ - 자동화 공장의 데이터 처리 및 서버 업그레이드 대응
+ - WebFocus, Sonar, VB.NET, Oracle 11g, Toraja
+ - https://rssungjae1.github.io/rssungjae1_kr//project_201810_201909/
+
+### 증권거래소용 지수 집계 산출 시스템 개발
+ - 개발기간 : 2018.04 ~ 2018.09
+ - 도쿄증권거래소 데이터 처리 프로그램 개발
+ - VB.NET, HiRDB
+ - https://rssungjae1.github.io/rssungjae1_kr//project_201804_201809/
+
+<br>
+
+---
+
+## 주요 공부 내용
+
+### 파이썬_업무자동화
+ - 파이썬 업무자동화 공부
+ - python, openpyxl, pyautogui, selenium, account, imap_tools
+ - https://rssungjae1.github.io/rssungjae1_kr//python_basic_RPA/
+
+### 자바 강의후기 등록 웹 어플리케이션
+ - 자바 강의후기 등록 웹 어플리케이션 개발
+ - java, jsp, mysql, tomcat, bootstrap
+ - https://rssungjae1.github.io/rssungjae1_kr//java_lecture_evaluation/
+ 
+### 파이썬_GUI
+ - 파이썬 GUI tkinter공부
+ - python, tkinter
+ - https://rssungjae1.github.io/rssungjae1_kr//python_basic_gui/
+ 
+### 파이썬_웹스크래핑
+ - 파이썬 웹스크래핑 공부
+ - python, selenium
+ - https://rssungjae1.github.io/rssungjae1_kr//python_basic_webscraping/
+ 
+### 파이썬_기본스킬
+ - python
+ - https://rssungjae1.github.io/rssungjae1_kr//python_basic_skill/
+
+<br>
