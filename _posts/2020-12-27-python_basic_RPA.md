@@ -106,7 +106,7 @@ ws.delete_rows(8,2)
 ws.delete_cols(2)
 ```
 
-(차트)
+(차트) <br/>
 엑셀 업무에서 꼭 필요한 차트
 ```python
 from openpyxl.chart import BarChart, Reference, LineChart
@@ -133,17 +133,17 @@ ws.add_image(img, "C3")
 ---
 
 ## desktop
-window전용
-python의 pyautogui라이브러리 사용
-pip install pyautogui
+window전용 <br/>
+python의 pyautogui라이브러리 사용 <br/>
+pip install pyautogui <br/>
 
-(화면)
+(화면) <br/>
 화면 사이즈 좌표로 주로 이용
 ```python
 pyautogui.size()
 ```
 
-(마우스)
+(마우스) <br/>
 duration 이동시간
 ```python
 # 절대좌표
@@ -180,8 +180,8 @@ img.save("screenshot.png")
 print(pyautogui.pixelMatchesColor(1294,16, (34, 166, 242)))
 ```
 
-(이미지 인식)
-locateOnScreen
+(이미지 인식) <br/>
+locateOnScreen <br/>
 png파일 인식
 ```python
 file_menu = pyautogui.locateOnScreen("file_menu.png")
@@ -276,11 +276,12 @@ https://rssungjae1.github.io/rssungjae1_kr//python_basic_webscraping/
 ## email
 gmail <br/>
 python의 smtplib, EmailMessage, imap_tools라이브러리 사용 <br/>
-pip install imap_tools
+pip install imap_tools <br/>
 
-(account)
+(account) <br/>
 gmail의 어카운트를 사용한다. 비밀번호는 구글 개인 계정 정보보호설정이 필요함 <br/>
-참조 : https://cpuu.postype.com/post/23066
+참조 : [https://cpuu.postype.com/post/23066](https://cpuu.postype.com/post/23066){: target="_blank"}
+
 ```python
 EMAIL_ADDRESS = "" # 주소
 EMAIL_PASSWORD = "" # 앱 비밀번호
