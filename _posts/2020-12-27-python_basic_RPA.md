@@ -16,10 +16,11 @@ comments : true
 [git 바로가기](https://github.com/rssungjae1/python_rpa_basic/tree/dev)
 
 ## 엑셀
-python의 openpyxl라이브러리 사용
+python의 openpyxl라이브러리 사용 <br/>
 pip install openpyxl
 
 (wb : 워크북)
+```python
 .active
 .create_sheet("sheet1")
 .save("sample.xlsx")
@@ -27,10 +28,13 @@ pip install openpyxl
 .copy_worksheet(new_ws)
 .sheetnames
 wb = load_workbook("sample.xlsx")
+```
 
 (ws : 워크시트)
+```python
 .title
 .sheet_properties.tabColor
+```
 
 (셀에 값 넣기)
 ```python
@@ -46,9 +50,9 @@ print(ws.cell(row=1, column=1).value)
 ```
 
 (셀 범위, 이동)
+```python
 col_range = ws["B:C"] # column
 row_range = ws[2:6] # row
-```python
 for row in ws.iter_rows(min_row = 2, max_row=11, min_col=2, max_col=3): # row 2~11, column 2~3 범위
   print(row[0].value, row[1].value) # 수학, 영어
 
@@ -124,17 +128,7 @@ img = Image("img.png")
 ws.add_image(img, "C3")
 ```
 
-```python
-pip install openpyxl
-from openpyxl import Workbook
-wb = Workbook() # 새 워크북 생성
-
-ws = wb.active # 현재 활성화 된 sheet 가져옴
-ws.title = "SongSheet" # 워크시트 이름변경
-ws.sheet_properties.tabColor = "ccffff" # RGB형태로 값을 넣어 색 변경
-wb.save("sample.xlsx") # 워크북 저장
-wb.close()
-```
+<br>
 
 ---
 
@@ -267,21 +261,25 @@ logger.addHandler(fileHandler)
 # https://github.com/rssungjae1/python_rpa_basic/blob/dev/2_desktop/11_file_system.py 참조
 ```
 
+<br>
+
 ---
 
 ## web
-selenium 데이터 크롤링
+selenium 데이터 크롤링 <br/>
 https://rssungjae1.github.io/rssungjae1_kr//python_basic_webscraping/
+
+<br>
 
 ---
 
 ## email
-gmail
-python의 smtplib, EmailMessage, imap_tools라이브러리 사용
+gmail <br/>
+python의 smtplib, EmailMessage, imap_tools라이브러리 사용 <br/>
 pip install imap_tools
 
 (account)
-gmail의 어카운트를 사용한다. 비밀번호는 구글 개인 계정 정보보호설정이 필요함
+gmail의 어카운트를 사용한다. 비밀번호는 구글 개인 계정 정보보호설정이 필요함 <br/>
 참조 : https://cpuu.postype.com/post/23066
 ```python
 EMAIL_ADDRESS = "" # 주소
